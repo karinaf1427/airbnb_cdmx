@@ -1,0 +1,17 @@
+site_name: airbnb_cdmx
+site_description: A curated collection of rental house prices datasets for data analysis, economic research, and education
+site_author: karinaf1427
+
+theme:
+  name: material
+  language: en
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+    scheme: default
+    primary: grey
+    accent: black
+
+nav:
+  - Home: index.md
+  - Examples: examples.md
