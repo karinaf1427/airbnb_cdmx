@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "airbnb_cdmx"
+version = "0.1.0"
+description = "Rental Prices in CDMX"
+readme = "README.md"
+license = { file = "LICENSE" }
+
+authors = [
+  { name="Karina", email="karinaf1427@gmail.com" }
+]
+
+maintainers = [
+  { name="Karina", email="karinaf1427@gmail.com" }
+]
+
+requires-python = ">=3.8"
+
+keywords = [
+    "real estate",
+    "rental prices",
+    "data analysis",
+    "data science",
+    "research",
+    "international",
+    "kaggle"
+]
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Education",
+    "Topic :: Scientific/Engineering :: Information Analysis"
+]
+
+dependencies = []
+
+#[project.urls]
+#Homepage = "https://github.com/karinaf1427/airbnb_cdmx"
